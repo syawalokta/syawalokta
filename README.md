@@ -38,6 +38,17 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syawalokta&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
   </a>
 </p>
+--- 
+
+## Contribution Activity
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syawalokta&custom_title=Contribution%20Graph&hide_border=true&bg_color=0d1117&color=1e90ff&line=1e90ff&point=ffffff&area=true&area_color=1a1a1a" alt="Contribution Graph" />
+
+</div>
+
+---
 
 ### ⌗ Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oktodev)
