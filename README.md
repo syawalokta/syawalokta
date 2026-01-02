@@ -35,7 +35,6 @@
 <p align="center">
   <a href="https://github.com/syawalokta">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syawalokta&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only"/>
----
 <br/>
 
 <div align="center">
