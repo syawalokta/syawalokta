@@ -31,14 +31,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
 </p>
 
-### ⌗ Stats
+### Stats
 <p align="center">
   <a href="https://github.com/syawalokta">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syawalokta&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=syawalokta&layout=compact&langs_count=8&theme=dark#gh-dark-mode-only"/>
-  </a>
-</p>
---- 
 
 ## Contribution Activity
 
@@ -49,7 +45,7 @@
 </div>
 
 
-### ⌗ Connect With Me
+### Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oktodev)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syawalokta)
 
